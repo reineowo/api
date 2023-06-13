@@ -1,4 +1,0 @@
-{
-    "BaseURL": "https://raw.githubusercontent.com/YuukiCute/data/main/rushia/",
-    "Total": 866
-}
